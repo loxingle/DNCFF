@@ -6,7 +6,7 @@
     }
     body {
         background-color: Black;
-        font-family: TimesNewRoman;
+        font-family: "Times New Roman";
     }
     .menu {
         float: left;

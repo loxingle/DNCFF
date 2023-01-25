@@ -72,8 +72,8 @@
         <div class="menu">
             <div class="float-one">
                 <p></p>
-                <a href="B.0GDE.html" rel="import" class="one" style="color: Black; text-align: center;">HEAD TO ENTRANCE</a>
-                <a href="B.0GDE.html" rel="import" class="one"><img src="IMG_0998.jpg" style="max-width: 75.8%; height: auto;"></a>
+                <a href="B.0_GDE.html" rel="import" class="one" style="color: Black; text-align: center;">HEAD TO ENTRANCE</a>
+                <a href="B.0_GDE.html" rel="import" class="one"><img src="IMG_0998.jpg" style="max-width: 75.8%; height: auto;"></a>
             </div>
         </div>
         <div class="menu-two">
